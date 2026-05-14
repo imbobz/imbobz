@@ -22,8 +22,6 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=bobis33&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=00000000)
-
 [![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/bobi33.png?6)](https://tryhackme.com/p/bobi33)
 
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
